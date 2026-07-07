@@ -1,1 +1,30 @@
-[]
+{
+  "colorPalette": "crimson-red",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260707-184558-pxgx",
+      "title": "Brax Play Havoc",
+      "commanders": [
+        "Brax Play Havoc"
+      ],
+      "dateStart": "2026-07-07T08:45:58.000Z",
+      "dateEnd": "2026-07-07T09:26:54.000Z",
+      "dateLabel": "7/7/2026, 6:45:58 PM - 7/7/2026, 7:26:54 PM",
+      "url": "https://soulswiper.github.io/GW2dpslogs/?report=20260707-184558-pxgx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 6
+      }
+    }
+  ]
+}
